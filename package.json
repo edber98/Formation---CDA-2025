@@ -1,0 +1,19 @@
+{
+  "name": "9---08072025",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Edouard BERNIER",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.2"
+  },
+  "devDependencies": {
+    "mocha": "^11.7.1",
+    "should": "^13.2.3"
+  }
+}
